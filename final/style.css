@@ -1,0 +1,15 @@
+.counter-section{
+    background-color: #00c984;
+    color: white;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.counter-section h3{
+    font-weight: bolder;
+}
+
+.para{
+    display: inline-block;
+    font-size: 50px;
+}

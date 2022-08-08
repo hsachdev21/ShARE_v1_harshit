@@ -1,0 +1,45 @@
+*{
+    margin-left: 7px;
+    margin-right: 7px;
+}
+.f {
+    display: flex;
+
+}
+.jc-b {
+    /* justify-content:space-evenly; */
+    justify-content: space-around;
+    /* justify-content: center; */
+}
+.ai-c {
+    align-items: flex-start;
+}
+
+.jc-c{
+    justify-content:center;
+}
+
+.bold {
+    font-weight:bold;
+}
+.acn {
+    font-size: 30px;
+}
+.wrld {
+    margin-top: 0px;
+    margin-left: 104px;
+
+}
+.alcn {
+    text-align: center;
+    font-size: 25px;
+}
+
+.mrlt {
+    margin-left: 100px;
+
+}
+
+.margin {
+    margin-left:10 ;
+}

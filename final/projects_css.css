@@ -1,0 +1,28 @@
+#learning_unit_projects{
+    color: #00C984;
+    text-align: center;
+    font-size: 37px;
+    font-weight: bolder;
+}
+
+#card-left{
+    height: 450px;
+    width: 50%;
+    float: left;
+}
+
+#text-right{
+    height: 450px;
+    width: 50%;
+    float: right;
+}
+
+#img-left-card{
+    height: 320px;
+    width: 229px;
+    margin-left: 135px;
+}
+
+#content-unit-project{
+    padding-top: 45px;
+}
